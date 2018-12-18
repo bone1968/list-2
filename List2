@@ -1,0 +1,405 @@
+#EXTM3U
+#EXTINF:0 group-title="US: _",US: 24 7 RETRO TV 
+http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: 30A TV 
+http://30a-tv.com/my999.m3u8
+#EXTINF:0 group-title="US: _",US: ANIMAL PLANET CST 
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:0 group-title="US: _",US: ANIMAL PLANET EST 
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:0 group-title="US: _",US: AQUA TEEN HUNGER FORCE 
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+#EXTINF:0 group-title="US: _",US: ATLANTA CHANNEL 
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:0 group-title="US: _",US: AXS TV 
+http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
+#EXTINF:0 group-title="US: _",US: BEACH TV 30A 
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: BEACH TV PANAMA CITY 
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:0 group-title="US: _",US: BEACH TV PAWLEYS ISLAND 
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: BEAUTY IQ 
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/4bc0e8c660c94c00afcdae21479e2b95/manifest.m3u8
+#EXTINF:0 group-title="US: _",US: BERMUDA CAM 
+http://video3.earthcam.com:1935/fecnetwork/8174.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: BETO TV LIFESTYLE ENGLISH 
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+#EXTINF:0 group-title="US: _",US: BETTER HEALTH 
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: BETTER NATURE 
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: BLOOMINGTON TV 
+http://granicusliveus2-a.akamaihd.net/bloomingtonmn/G1223_002/chunklist.m3u8
+#EXTINF:0 group-title="US: _",US: BOWIE TV 
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: BRAVO 
+http://161.0.157.7/PLTV/88888888/224/3221226804/03.m3u8
+#EXTINF:0 group-title="US: _",US: BRECKENRIDGE SKI CAM 
+http://video3.earthcam.com:1935/fecnetwork/7300.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: BROOKLYN BRIDGE 
+http://video3.earthcam.com:1935/fecnetwork/3983.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: BUTV10 BOSTON UNIVERSITY 
+http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:0 group-title="US: _",US: CAROLINA TV 
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: CATCH 2 JAMAICA 
+http://161.0.157.8/PLTV/88888888/224/3221226874/03.m3u8
+#EXTINF:0 group-title="US: _",US: CATS MEOW KARAOKE BAR 
+http://video3.earthcam.com/fecnetwork/4281.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: CBS OPT 1 
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:0 group-title="US: _",US: CENTRAL VALLEY TALK 
+http://1-fss29-s0.streamhoster.com/lv_cvtalkf1/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:0 group-title="US: _",US: CERRITOS TV3 
+http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
+#EXTINF:0 group-title="US: _",US: CGTV CITY OF CHAMPAIGN 
+http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+#EXTINF:0 group-title="US: _",US: CHANDLER CHANNEL 
+https://granicusliveus5-a.akamaihd.net/chandleraz/G0987_002/chunklist.m3u8
+#EXTINF:0 group-title="US: _",US: CHANNEL V6 
+http://media2.stratanet.com:1935/live/mylivestream/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: CHARGE TV PUBLIC ENTERTAINMENT ENGLISH 
+http://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:0 group-title="US: _",US: CHARGE! GEO 
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:0 group-title="US: _",US: CHINESE ENTERTAINMENT CH MANDARIN 
+http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/as/live/snvn_4.m3u8
+#EXTINF:0 group-title="US: _",US: CITY OF CAVALIER CAM 
+http://video3.earthcam.com:1935/fecnetwork/6698.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: CLASSIC ARTS SHOWCASE 
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:0 group-title="US: _",US: COMBAT GO 
+http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: COMET TV GEO 
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:0 group-title="US: _",US: CONTV OPT 1 
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+#EXTINF:0 group-title="US: _",US: COOKING CHANNEL 
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:0 group-title="US: _",US: CORNERSTONE TV 
+http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
+#EXTINF:0 group-title="US: _",US: COUNTERTHINK 
+https://infowarslive-lh.akamaihd.net/i/infowarsevent_1@366809/master.m3u8
+#EXTINF:0 group-title="US: _",US: CT N COURT FEED 
+http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8
+#EXTINF:0 group-title="US: _",US: CT N INSTANT 
+http://video.ct-n.com/live/ctnspare/chunklist_w252238746_DVR.m3u8
+#EXTINF:0 group-title="US: _",US: CT N STREAMING MEDIA 
+http://video.ct-n.com/live/ctnstream/chunklist_w1534354198_DVR.m3u8
+#EXTINF:0 group-title="US: _",US: CTNI ES 
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: DARCIZZLE OFFSHORE 
+http://30a-tv.com/darcizzle.m3u8
+#EXTINF:0 group-title="US: _",US: DAYTONA BEACH TV 
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+#EXTINF:0 group-title="US: _",US: DC COUNCIL CHANNEL 
+http://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:0 group-title="US: _",US: DCC TV 
+http://video.oct.dc.gov/out/u/15_9.m3u8
+#EXTINF:0 group-title="US: _",US: DCN TV 
+http://video.oct.dc.gov/out/u/21_5.m3u8
+#EXTINF:0 group-title="US: _",US: DEALEY PLAZA CAM 
+http://video3.earthcam.com:1935/fecnetwork/dealeyplaza2.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: DISCOVERY CHANNEL EST 
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:0 group-title="US: _",US: DISTRICT KNOWLEDGE NETWORK 
+http://video.oct.dc.gov/out/u/96_4.m3u8
+#EXTINF:0 group-title="US: _",US: DISTRICT OF COLUMBIA NETWORK 
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:0 group-title="US: _",US: DKN TV 
+http://video.oct.dc.gov/out/u/96_1.m3u8
+#EXTINF:0 group-title="US: _",US: DOCURAMA 
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:0 group-title="US: _",US: DOWNTOWN MIAMI 
+http://video3.earthcam.com:1935/fecnetwork/miamivishd5.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: DOYLESTOWN 
+http://wms-prod-1.wetmet.net/live/207-10-01/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: DPAN TV 
+https://dplive-i.akamaihd.net/hls/live/264199/dpanlive/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: DR GENE SCOTT 
+http://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
+#EXTINF:0 group-title="US: _",US: DREAM CORP LLC 
+http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
+#EXTINF:0 group-title="US: _",US: EYE 95 TV 
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+#EXTINF:0 group-title="US: _",US: FAIRFAX PUBLIC ACCESS 
+http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
+#EXTINF:0 group-title="US: _",US: FALCON CAM 
+http://video3.earthcam.com:1935/fecnetwork/370.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: FALCON CAM 2 
+http://video3.earthcam.com:1935/fecnetwork/woodmenHD.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: FLASHBACK TV 
+https://dcunilive28-lh.akamaihd.net/i/dclive_1@533390/master.m3u8
+#EXTINF:0 group-title="US: _",US: FLORIDA FLIGHT CAM 
+http://video3.earthcam.com:1935/fecnetwork/7571.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: FOX PREMIUM COMEDY ASIA 
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:0 group-title="US: _",US: FREE SPEECH TV 
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:0 group-title="US: _",US: FREEDOM BOAT CLUB 
+http://wse1.resortcams.com/live-nDVR/freedomboatclub.stream/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: GARLAND TV 
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+#EXTINF:0 group-title="US: _",US: GLOBESVILLE INSTITUTE OF TECHNOLOGY 
+http://live-h1.frontlayer.net/fl592468/live/chunks.m3u8
+#EXTINF:0 group-title="US: _",US: GOOD LIFE 45 
+http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: GREEN PARROT 
+http://wse1.resortcams.com/live/greenparrot2.stream/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: GREENEVILLE 
+http://wse1.resortcams.com/live/greeneville.stream/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: GREENSBORO TV NETWORK 
+http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
+#EXTINF:0 group-title="US: _",US: HARVEST TV DOCUMENTARY IN MALAYALAM 
+http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: HAWAII SURF CAM 
+http://video3.earthcam.com:1935/fecnetwork/5204.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: HIGH LINE CAM 
+http://video3.earthcam.com:1935/fecnetwork/7384.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: HILLSBORO LIGHTHOUSE 
+http://video3.earthcam.com:1935/fecnetwork/4135.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: HISCHANNEL 
+http://www1.hischannel.com/Box-Tv-Live/BoxTvLive.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0 group-title="US: _",US: HOLLYWOOD BOULEVARD 
+http://video3.earthcam.com/fecnetwork/lacitytours1.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: HORRORS 
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: HOUSE OF REPRESENTATIVES 
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:0 group-title="US: _",US: HOUSE OF YAHWEH JE 
+http://198.57.164.156:1935/live/SermonLoop/chunklist_w1535326969.m3u8
+#EXTINF:0 group-title="US: _",US: INVESTIGATION DISCOVERY 
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:0 group-title="US: _",US: IRANEFARDA TV 
+http://66.160.192.249:8080/iranefarda/high/112416/TVBOXHD.COM/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="US: _",US: JACKSON HOLE CAM 
+http://video3.earthcam.com:1935/fecnetwork/6954.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: JBS JE 
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+#EXTINF:0 group-title="US: _",US: KEY TV 
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:0 group-title="US: _",US: KIAWAH ISLAND BEACH 
+http://video3.earthcam.com:1935/fecnetwork/6320.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: KOOL TV 
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: LA36 
+http://granicusliveus6-a.akamaihd.net/la36/G0019_002/chunklist_w1442089063.m3u8
+#EXTINF:0 group-title="US: _",US: LAKE MICHIGAN CAM 
+http://video3.earthcam.com:1935/fecnetwork/4465.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: LAS VEGAS 
+http://video3.earthcam.com/fecnetwork/eclasvegas.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: LAUDERDALE BY THE SEA 
+http://videos3.earthcam.com/fecnetwork/9314.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: LAUDERDALE BY THE SEA CAM 
+http://video3.earthcam.com:1935/fecnetwork/windjammerHD2.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: LBN 
+http://media1.lesea.com:1935/live/leseaorigin.stream/chunklist.m3u8
+#EXTINF:0 group-title="US: _",US: LEOMINSTER TV EDUCATIONAL 
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:0 group-title="US: _",US: LEX TV 
+http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
+#EXTINF:0 group-title="US: _",US: LIFEVISION TV 
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: LNKTV CITY 
+http://5tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:0 group-title="US: _",US: LNKTV HEALTH 
+http://10tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:0 group-title="US: _",US: M 1 GLOBAL RUSSIA 
+http://live-m1globaltv.cdnvideo.ru/m1globaltv/m1globaltv-rtmp-eng_720p/chunklist.m3u8
+#EXTINF:0 group-title="US: _",US: MADELINE ISLAND 
+http://wse1.resortcams.com/live/madelineisland.stream/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: MALLORY SQUARE 
+http://wowza.floridakeysmedia.com/mallorysquare/mallorysquare.stream/chunklist.m3u8
+#EXTINF:0 group-title="US: _",US: MANASQUAN 
+http://5a5f765a4fcc2.streamlock.net:1935/live/squan.stream/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: METALOCALYPSE 
+http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+#EXTINF:0 group-title="US: _",US: METRO CABLE NETWORK 
+http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
+#EXTINF:0 group-title="US: _",US: MIAMI TV 
+http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
+#EXTINF:0 group-title="US: _",US: MIAMI TV 1 
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: MOBCRUSH 
+https://ott.mobcrush.com/hls/0/ott.m3u8
+#EXTINF:0 group-title="US: _",US: MR PICKLES 
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+#EXTINF:0 group-title="US: _",US: MTA IS UK 
+http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
+#EXTINF:0 group-title="US: _",US: MULBERRY STREET CAM 
+http://video3.earthcam.com:1935/fecnetwork/5775.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: MY9 
+http://161.0.157.9/PLTV/88888888/224/3221226727/03.m3u8
+#EXTINF:0 group-title="US: _",US: MYRTLE BEACH CAM 
+http://video3.earthcam.com/fecnetwork/3635.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: NATUREVISION TV 
+https://feed00.pluto.tv/feed03/ngrp:nature.vision.stream_all/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: NBC OPT 1 
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:0 group-title="US: _",US: NET TV 
+http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: NEW MEXICO CAM 
+http://video3.earthcam.com:1935/fecnetwork/5465.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: NEW ORLEANS TV 
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: NPOWERED TV 
+https://nimble.dashmedia.tv/onestudio/npowered/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: NRA TV 
+https://stream1.nra.tv/nratv/ngrp:nratvall/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: NRB NETWORK 
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: NWCT 12 MINNESOTA 
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:0 group-title="US: _",US: OLELO COMMUNITY MEDIA 49 
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
+#EXTINF:0 group-title="US: _",US: OLELO COMMUNITY MEDIA 53 
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
+#EXTINF:0 group-title="US: _",US: OLELO COMMUNITY MEDIA 55 
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
+#EXTINF:0 group-title="US: _",US: ORANGE TV 
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:0 group-title="US: _",US: OSPREY CAM 
+http://videos3.earthcam.com/fecnetwork/14327.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: PATV 
+http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+#EXTINF:0 group-title="US: _",US: PEACE TV IS UAE 
+http://199.167.151.237:1935/live/sp15_3.stream/gmswf.m3u8
+#EXTINF:0 group-title="US: _",US: PLANET GREEN 
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:0 group-title="US: _",US: QVC 
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/chunklist_b4192000.m3u8
+#EXTINF:0 group-title="US: _",US: QVC 2 
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/1af4a53fda904f6c90a4389c8fe92dc0/manifest.m3u8
+#EXTINF:0 group-title="US: _",US: QVC BEAUTY IQ 
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/4bc0e8c660c94c00afcdae21479e2b95/chunklist_b4192000.m3u8
+#EXTINF:0 group-title="US: _",US: QVC OPT 1 
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/manifest.m3u8
+#EXTINF:0 group-title="US: _",US: QVC OPT 2 
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+#EXTINF:0 group-title="US: _",US: QVC2 
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/1af4a53fda904f6c90a4389c8fe92dc0/chunklist_b4192000.m3u8
+#EXTINF:0 group-title="US: _",US: RALEIGH TELEVISION NETWORK 
+http://granicusliveus2-a.akamaihd.net/raleigh/G0224_002/chunklist_w716725136.m3u8
+#EXTINF:0 group-title="US: _",US: RANGARANG TV 
+http://iptv.rangarang.us/live/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: ROUTE 66 CAM 
+http://video3.earthcam.com:1935/fecnetwork/8470.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: ROUTE 66 CAM 2 
+http://video3.earthcam.com:1935/fecnetwork/8471.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: RYETV 
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: SAFETV4U2 
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: SAINT NICHOLAS NATIONAL SHRINE 
+http://video3.earthcam.com:1935/fecnetwork/8592.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: SAINT PAUL CAM 
+http://video3.earthcam.com:1935/fecnetwork/7945.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: SALT AND LIGHT TV CA CANADA 
+http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
+#EXTINF:0 group-title="US: _",US: SAN FRANCISCO 
+http://video3.earthcam.com/fecnetwork/6603.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: SAN JACINTO MONUMENT 
+http://video3.earthcam.com/fecnetwork/6081.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: SCHOONER WHARF BAR CAM 
+http://wowza.floridakeysmedia.com:8090/schoonerwharf/schoonerwharf.stream/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: SCHOONERS BEACH CAM 
+http://media5.tripsmarter.com:1935/schoonersbeachHDCam830294711349/schbeach/chunklist.m3u8
+#EXTINF:0 group-title="US: _",US: SCIENCE CHANNEL 
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:0 group-title="US: _",US: SCP TV ST CHARLES PARISH 
+http://66.210.225.230/live/CELL-496k-270p/CELL-496k-270p.m3u8
+#EXTINF:0 group-title="US: _",US: SEMINOLE TV 
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+#EXTINF:0 group-title="US: _",US: SHOP LC 
+https://dpfbqenlgkzdh.cloudfront.net/shoplc_backup/live.m3u8
+#EXTINF:0 group-title="US: _",US: SHOP LC TV 
+http://dpfbqenlgkzdh.cloudfront.net/shoplc_backup/1/prog_index.m3u8
+#EXTINF:0 group-title="US: _",US: SHOWTIME 
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:0 group-title="US: _",US: SKYLINE 
+http://video3.earthcam.com:1935/fecnetwork/4544.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: SOUTHEASTERN CHANNEL 
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:0 group-title="US: _",US: SQUIDBILLIES 
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
+#EXTINF:0 group-title="US: _",US: ST LOUIS ARCH CAM 
+http://video3.earthcam.com:1935/fecnetwork/meprd_garch.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: STADIUM 
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:0 group-title="US: _",US: SUNSET CAM 
+http://wowza.floridakeysmedia.com/sunset/sunset.stream/chunklist.m3u8
+#EXTINF:0 group-title="US: _",US: SUPERJAIL 
+https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
+#EXTINF:0 group-title="US: _",US: TBD 
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:0 group-title="US: _",US: TBD TV PUBLIC ENTERTAINMENT ENGLISH 
+https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:0 group-title="US: _",US: TELEUNO TV 
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: TEMPE 11 
+http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
+#EXTINF:0 group-title="US: _",US: TEMPLE TV 
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+#EXTINF:0 group-title="US: _",US: THE COUNTRY NETWORK 
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:0 group-title="US: _",US: THE ERIC ANDRE SHOW 
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:0 group-title="US: _",US: TIM AND ERIC 
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+#EXTINF:0 group-title="US: _",US: TIMES SQUARE 3 
+http://video3.earthcam.com/fecnetwork/4017timessquare.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: TIMES SQUARE STREET 
+http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: TLC 
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:0 group-title="US: _",US: TOONAMI AFTERMATH EST 
+http://198.98.58.76:1935/live/est/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: TOONAMI AFTERMATH PST 
+http://209.141.34.104:1935/live/pst/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: TRAVEL CHANNEL 
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:0 group-title="US: _",US: TUFF TV 
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: TVW 
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:0 group-title="US: _",US: TVW 2 
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:0 group-title="US: _",US: UALR UNIVERSITY TV 
+http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
+#EXTINF:0 group-title="US: _",US: UN WEB TV 
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_1@575439/master.m3u8
+#EXTINF:0 group-title="US: _",US: UPPER SADDLE RIVER 
+http://videos3.earthcam.com/fecnetwork/1805.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: VICELAND 
+http://viper.streame.tv:9696/live/ilham/VIP102088/151.m3u8
+#EXTINF:0 group-title="US: _",US: VICTORY TV NETWORK 
+http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: VOICE OF 
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0 group-title="US: _",US: VTV CHANNEL 6 COLORADO 
+http://hls.ksl.com/t/strata/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: WALL STREET 
+http://video3.earthcam.com/fecnetwork/chargingbull.flv/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: WBRZ TV BATON ROUGE 
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:0 group-title="US: _",US: WEST JEFFERSON 
+http://wse1.resortcams.com/live/westjefferson.stream/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: WESTERN 4U 
+https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: WGGS TV 
+https://d202lge9i6ts6.cloudfront.net/origin1ingest1/c7956aac88/chunklist.m3u8
+#EXTINF:0 group-title="US: _",US: WHITE PLAINS COMMUNITY MEDIA 
+http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
+#EXTINF:0 group-title="US: _",US: WHOH TV 
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:0 group-title="US: _",US: WILLIAMS STREAM 
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+#EXTINF:0 group-title="US: _",US: WSVI TV 
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
+#EXTINF:0 group-title="US: _",US: WWE NETWORK OPT 1 
+http://hlslive-l3c.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired.m3u8
+#EXTINF:0 group-title="US: _",US: WWE NETWORK OPT 2 
+http://hlslive-l3c.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired_1.m3u8
+#EXTINF:0 group-title="US: _",US: XCORPS TV 
+http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
